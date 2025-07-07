@@ -1,4 +1,4 @@
-yfrom fastapi import FastAPI
+from fastapi import FastAPI
 from typing import Optional
 
 app = FastAPI()
